@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://misrori.github.io/tradingviewdata/404.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/tradingviewdata/authors.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/tradingviewdata/index.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/tradingviewdata/reference/cashed_stock_df.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/tradingviewdata/reference/change_numeric.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/tradingviewdata/reference/get_all_coins.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/tradingviewdata/reference/get_all_stocks.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/tradingviewdata/reference/get_spy_index.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/tradingviewdata/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://misrori.github.io/tradingviewdata/reference/tradingview_data_from_json_string.html</loc>
+  </url>
+</urlset>
